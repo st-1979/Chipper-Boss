@@ -1,0 +1,30 @@
+{
+ "name": "Chipper Boss (চিপার বস)",
+ "short_name": "Chipper Boss",
+ "description": "ঢাকার অলিগলিতে ঘুরে বেড়ান, দোকানে চাঁদা তুলুন, রিকশা-গাড়িতে চড়ুন, পুলিশের চোখ ফাঁকি দিয়ে গড়ে তুলুন নিজের সাম্রাজ্য। একটি ফ্রি আর্কেড ব্রাউজার গেম — ডাউনলোড বা লগইন ছাড়াই মোবাইল ও পিসিতে খেলুন।",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#0f141b",
+ "theme_color": "#f5b50a",
+ "lang": "bn",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512-maskable.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
